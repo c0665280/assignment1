@@ -37,7 +37,7 @@ public class JavaApplication1 {
      * SQL  https://en.wikipedia.org/wiki/SQL
      
      
-     * Toronto Salary $475k
+     * Toronto Salary $75k
      * Vancouver Salary $86k
      * Waterloo Salary $75k
      * 
